@@ -108,6 +108,7 @@ MonoBehaviour:
     m_Bits: 192
   _deathMessage: {fileID: 0}
   _jumpSound: {fileID: 9209752174052062550}
+  _hitSound: {fileID: 0}
 --- !u!61 &9153644214220281030
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -144,9 +145,9 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 1be78abbd011fe14585c1876173958f8, type: 3}
+  m_audioClip: {fileID: 8300000, guid: cb127ad4251b7ae489fa960bc47bb258, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 1
+  m_Volume: 0.342
   m_Pitch: 1
   Loop: 0
   Mute: 0

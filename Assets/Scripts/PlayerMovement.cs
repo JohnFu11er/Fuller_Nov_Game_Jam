@@ -10,6 +10,7 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private LayerMask _whatIsGround;
     [SerializeField] private Canvas _deathMessage;
     [SerializeField] private AudioSource _jumpSound;
+    // [SerializeField] private AudioSource _hitSound;
     const float _groundRadius = .2f;
     private Rigidbody2D _rb;
     private float _horizontal;
@@ -31,6 +32,7 @@ public class PlayerMovement : MonoBehaviour
     {   
         if (Input.GetButtonDown("Jump") && _isGrounded)
         {
+            _jumpSound.Play();
             Jump();
         }
         else _isGrounded = false;
@@ -52,7 +54,6 @@ public class PlayerMovement : MonoBehaviour
     {
         _isGrounded = false;
         _rb.AddForce(new Vector2(0f, _jumpForce), ForceMode2D.Impulse);
-        _jumpSound.Play();
     }
 
 
@@ -72,7 +73,10 @@ public class PlayerMovement : MonoBehaviour
 
     void OnCollisionEnter2D(Collision2D other)
     {
-        if (other.transform.CompareTag("Hazard"))  Die();
+        if (other.transform.CompareTag("PuzzleBlock"))
+        {
+            // _hitSound.Play();
+        }
     }
 
     void Flip()
