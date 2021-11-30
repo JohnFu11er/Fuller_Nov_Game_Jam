@@ -82,13 +82,13 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 2392}
     - Class: 114
-      Script: {instanceID: 3966}
+      Script: {instanceID: 2472}
     - Class: 114
-      Script: {instanceID: 4090}
+      Script: {instanceID: 3972}
     - Class: 114
-      Script: {instanceID: 5704}
+      Script: {instanceID: 4096}
     - Class: 114
-      Script: {instanceID: 161712}
+      Script: {instanceID: 5710}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -151,13 +151,13 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 2392}
     - Class: 114
-      Script: {instanceID: 3966}
+      Script: {instanceID: 2472}
     - Class: 114
-      Script: {instanceID: 4090}
+      Script: {instanceID: 3972}
     - Class: 114
-      Script: {instanceID: 5704}
+      Script: {instanceID: 4096}
     - Class: 114
-      Script: {instanceID: 161712}
+      Script: {instanceID: 5710}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -220,17 +220,17 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 2392}
     - Class: 114
-      Script: {instanceID: 3966}
+      Script: {instanceID: 2472}
     - Class: 114
-      Script: {instanceID: 4090}
+      Script: {instanceID: 3012}
     - Class: 114
-      Script: {instanceID: 5704}
+      Script: {instanceID: 3360}
     - Class: 114
-      Script: {instanceID: 113248}
+      Script: {instanceID: 3972}
     - Class: 114
-      Script: {instanceID: 161712}
+      Script: {instanceID: 4096}
     - Class: 114
-      Script: {instanceID: 223230}
+      Script: {instanceID: 5710}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -291,17 +291,17 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 2264}
     - Class: 114
+      Script: {instanceID: 2390}
+    - Class: 114
       Script: {instanceID: 2392}
     - Class: 114
-      Script: {instanceID: 3966}
+      Script: {instanceID: 2472}
     - Class: 114
-      Script: {instanceID: 4090}
+      Script: {instanceID: 3972}
     - Class: 114
-      Script: {instanceID: 5704}
+      Script: {instanceID: 4096}
     - Class: 114
-      Script: {instanceID: 41834}
-    - Class: 114
-      Script: {instanceID: 161712}
+      Script: {instanceID: 5710}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -362,17 +362,17 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 2264}
     - Class: 114
+      Script: {instanceID: 2390}
+    - Class: 114
       Script: {instanceID: 2392}
     - Class: 114
-      Script: {instanceID: 3966}
+      Script: {instanceID: 2472}
     - Class: 114
-      Script: {instanceID: 4090}
+      Script: {instanceID: 3972}
     - Class: 114
-      Script: {instanceID: 5704}
+      Script: {instanceID: 4096}
     - Class: 114
-      Script: {instanceID: 41834}
-    - Class: 114
-      Script: {instanceID: 161712}
+      Script: {instanceID: 5710}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -433,17 +433,17 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 2264}
     - Class: 114
+      Script: {instanceID: 2390}
+    - Class: 114
       Script: {instanceID: 2392}
     - Class: 114
-      Script: {instanceID: 3966}
+      Script: {instanceID: 2472}
     - Class: 114
-      Script: {instanceID: 4090}
+      Script: {instanceID: 3972}
     - Class: 114
-      Script: {instanceID: 5704}
+      Script: {instanceID: 4096}
     - Class: 114
-      Script: {instanceID: 41834}
-    - Class: 114
-      Script: {instanceID: 161712}
+      Script: {instanceID: 5710}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -504,17 +504,17 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 2264}
     - Class: 114
+      Script: {instanceID: 2390}
+    - Class: 114
       Script: {instanceID: 2392}
     - Class: 114
-      Script: {instanceID: 3966}
+      Script: {instanceID: 2472}
     - Class: 114
-      Script: {instanceID: 4090}
+      Script: {instanceID: 3972}
     - Class: 114
-      Script: {instanceID: 5704}
+      Script: {instanceID: 4096}
     - Class: 114
-      Script: {instanceID: 41834}
-    - Class: 114
-      Script: {instanceID: 161712}
+      Script: {instanceID: 5710}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -575,17 +575,17 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 2264}
     - Class: 114
+      Script: {instanceID: 2390}
+    - Class: 114
       Script: {instanceID: 2392}
     - Class: 114
-      Script: {instanceID: 3966}
+      Script: {instanceID: 2472}
     - Class: 114
-      Script: {instanceID: 4090}
+      Script: {instanceID: 3972}
     - Class: 114
-      Script: {instanceID: 5704}
+      Script: {instanceID: 4096}
     - Class: 114
-      Script: {instanceID: 41834}
-    - Class: 114
-      Script: {instanceID: 161712}
+      Script: {instanceID: 5710}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -648,15 +648,15 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 2392}
     - Class: 114
-      Script: {instanceID: 3966}
+      Script: {instanceID: 2472}
     - Class: 114
-      Script: {instanceID: 4090}
+      Script: {instanceID: 3012}
     - Class: 114
-      Script: {instanceID: 5704}
+      Script: {instanceID: 3972}
     - Class: 114
-      Script: {instanceID: 161712}
+      Script: {instanceID: 4096}
     - Class: 114
-      Script: {instanceID: 223230}
+      Script: {instanceID: 5710}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -719,17 +719,17 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 2392}
     - Class: 114
-      Script: {instanceID: 3966}
+      Script: {instanceID: 2472}
     - Class: 114
-      Script: {instanceID: 4090}
+      Script: {instanceID: 3012}
     - Class: 114
-      Script: {instanceID: 5704}
+      Script: {instanceID: 3360}
     - Class: 114
-      Script: {instanceID: 113248}
+      Script: {instanceID: 3972}
     - Class: 114
-      Script: {instanceID: 161712}
+      Script: {instanceID: 4096}
     - Class: 114
-      Script: {instanceID: 223230}
+      Script: {instanceID: 5710}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -792,17 +792,17 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 2392}
     - Class: 114
-      Script: {instanceID: 3966}
+      Script: {instanceID: 2472}
     - Class: 114
-      Script: {instanceID: 4090}
+      Script: {instanceID: 3012}
     - Class: 114
-      Script: {instanceID: 5704}
+      Script: {instanceID: 3360}
     - Class: 114
-      Script: {instanceID: 113248}
+      Script: {instanceID: 3972}
     - Class: 114
-      Script: {instanceID: 161712}
+      Script: {instanceID: 4096}
     - Class: 114
-      Script: {instanceID: 223230}
+      Script: {instanceID: 5710}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -869,19 +869,19 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 2392}
     - Class: 114
-      Script: {instanceID: 3966}
+      Script: {instanceID: 2472}
     - Class: 114
-      Script: {instanceID: 4090}
+      Script: {instanceID: 3972}
     - Class: 114
-      Script: {instanceID: 4752}
+      Script: {instanceID: 4096}
     - Class: 114
-      Script: {instanceID: 4914}
+      Script: {instanceID: 4758}
     - Class: 114
-      Script: {instanceID: 5318}
+      Script: {instanceID: 4920}
     - Class: 114
-      Script: {instanceID: 5704}
+      Script: {instanceID: 5324}
     - Class: 114
-      Script: {instanceID: 161712}
+      Script: {instanceID: 5710}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -1059,6 +1059,12 @@ ScriptsOnlyBuild:
     className: CinemachinePixelPerfect
   - hash:
       serializedVersion: 2
+      Hash: 6802f978c467566c6dbffb8670f88023
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PlatformDeactivateController
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
@@ -1075,6 +1081,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
     className: RawImage
+  - hash:
+      serializedVersion: 2
+      Hash: c15f3fb223de06cb5c7498a1c12c5a87
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TextShadow
   - hash:
       serializedVersion: 2
       Hash: cfdd0010efd7b54c2b7512656dbc9119
@@ -1149,6 +1161,12 @@ ScriptsOnlyBuild:
     className: TMP_TextSelector_A
   - hash:
       serializedVersion: 2
+      Hash: 8ab24f9942420f450065c09d098ffb5e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ExitDoorControlBinary
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: UnityEngine.TestRunner.dll
     namespaceName: UnityEngine.TestRunner.Utils
@@ -1195,6 +1213,12 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: TMPro.Examples
     className: Benchmark03
+  - hash:
+      serializedVersion: 2
+      Hash: 6802f978c467566c6dbffb8670f88023
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PlatformDeactivateControllerBinary
   - hash:
       serializedVersion: 2
       Hash: 748dd2a2a28da4e618912da5ac45684b
@@ -1663,30 +1687,6 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: TMPro.Examples
     className: TMP_TextEventCheck
-  - hash:
-      serializedVersion: 2
-      Hash: 6802f978c467566c6dbffb8670f88023
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: PlatformDeactivateController
-  - hash:
-      serializedVersion: 2
-      Hash: 6802f978c467566c6dbffb8670f88023
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: PlatformDeactivateControllerBinary
-  - hash:
-      serializedVersion: 2
-      Hash: c15f3fb223de06cb5c7498a1c12c5a87
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: TextShadow
-  - hash:
-      serializedVersion: 2
-      Hash: 8ab24f9942420f450065c09d098ffb5e
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: ExitDoorControlBinary
   platform: 20
   scenePathNames:
   - Assets/Scenes/MainMenu.unity
@@ -1701,4 +1701,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/Level_9.unity
   - Assets/Scenes/Level_10.unity
   - Assets/Scenes/Credits.unity
-  playerPath: C:/Users/User/Desktop/DataQuestWebGL
+  playerPath: C:/Users/User/Desktop/DataQuestWebGLlatest
